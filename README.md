@@ -1,16 +1,14 @@
 <div align="center">
-  <!-- Oficjalne animowane emoji dłoni Microsoftu -->
+
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="90" alt="Waving Hand" />
   
   <h1><samp>👋 Cześć! Tu <span style="color: #3A86FF;">Kubuś</span></samp></h1>
   
-  <!-- Błękitny nagłówek z usuniętą frazą o kawie -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Programista;Tworz%C4%99+aplikacje+webowe+i+skrypty" alt="Typing SVG" />
 </div>
 
 <br />
 
-<!-- Karta "O mnie" przy użyciu natywnego stylu GitHub -->
 > [!NOTE]
 > ### 🪐 O mnie
 > Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2K23.
@@ -110,7 +108,6 @@
 <div align="center">
   <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
   <br /><br />
-  <!-- Obrazek generowany przez skrypt GitHub Actions -->
   <img src="https://raw.githubusercontent.com/TWÓJ_GITHUB_USERNAME/TWÓJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" width="100%" />
 </div>
 
