@@ -12,31 +12,116 @@
 > ### 🪐 O mnie
 > Programowanie to dla mnie ciągłe poszukiwanie optymalnych rozwiązań. Przekładam skomplikowane wyzwania na prosty, wydajny i łatwy w utrzymaniu kod. Na co dzień skupiam się na automatyzacji procesów, optymalizacji algorytmów i projektowaniu czystej architektury, dbając o to, by oprogramowanie przede wszystkim skutecznie rozwiązywało realne problemy.
 
-<samp>
-<b>🧠 Backend i systemy</b>
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" /> Python (90%) ────── ██████████████████░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" /> C++ (60%) ───────── ████████████░░░░░░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16" /> C# (70%) ────────── ██████████████░░░░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> Java (50%) ──────── ██████████░░░░░░░░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16" height="16" /> Lua (80%) ───────── ████████████████░░░░
-<br><br>
-<b>🌐 Frontend, bazy danych i podstawy</b>
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> JavaScript (85%) ── █████████████████░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" /> TypeScript (75%) ── ███████████████░░░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" /> HTML/CSS (85%) ──── █████████████████░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" /> SQL (75%) ───────── ███████████████░░░░░
-<br>
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16" /> PHP (40%) ───────── ████████░░░░░░░░░░░░
-</samp>
+### 🛠️ Moje technologie i poziom znajomości
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <!-- Lewa kolumna: Backend i Systemy -->
+      <td style="border: none; padding: 20px;" valign="top">
+        <h4 align="left">🧠 Backend i systemy</h4>
+        <div align="left">
+          <!-- Python -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" valign="middle" /> <b>Python (90%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="252" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="252" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- C++ -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="18" height="18" valign="middle" /> <b>C++ (60%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="168" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="168" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- C# -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" height="18" valign="middle" /> <b>C# (70%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="196" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="196" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- Java -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18" height="18" valign="middle" /> <b>Java (50%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="140" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="140" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- Lua -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="18" height="18" valign="middle" /> <b>Lua (80%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="224" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="224" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+        </div>
+      </td>
+      <!-- Prawa kolumna: Frontend i Bazy Danych -->
+      <td style="border: none; padding: 20px;" valign="top">
+        <h4 align="left">🌐 Frontend, bazy i podstawy</h4>
+        <div align="left">
+          <!-- JavaScript -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" valign="middle" /> <b>JavaScript (85%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="238" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- TypeScript -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" height="18" valign="middle" /> <b>TypeScript (75%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="210" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="210" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- HTML/CSS -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18" valign="middle" /> <b>HTML/CSS (85%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="238" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- SQL -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" height="18" valign="middle" /> <b>SQL (75%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="210" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="210" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+          <!-- PHP -->
+          <p style="margin: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="18" height="18" valign="middle" /> <b>PHP (40%)</b><br />
+            <svg width="280" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px;">
+              <rect width="112" height="8" fill="#3A86FF" rx="4">
+                <animate attributeName="width" from="0" to="112" dur="1.2s" fill="freeze" />
+              </rect>
+            </svg>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr />
 
