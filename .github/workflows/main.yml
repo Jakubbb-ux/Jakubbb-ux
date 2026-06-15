@@ -38,10 +38,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # - name: Verify generated SVG files exist
-      #  run: |
-          [ ! -f "${{ env.OUTPUT_DIR }}/github-contribution-grid-snake.svg" ] && exit 1
-          [ ! -f "${{ env.OUTPUT_DIR }}/github-contribution-grid-snake-dark.svg" ] && exit 1
+       - name: Verify generated SVG files exist
+        run: |
+          [ ! -f ${{ env.OUTPUT_DIR }}/github-contribution-grid-snake.svg ] && exit 1
+          [ ! -f ${{ env.OUTPUT_DIR }}/github-contribution-grid-snake-dark.svg ] && exit 1
 
       - name: Publish snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5
