@@ -108,7 +108,7 @@
 <div align="center">
   <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
   <br /><br />
-  <img src="https://raw.githubusercontent.com/TWÓJ_GITHUB_USERNAME/TWÓJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" width="100%" />
 </div>
 
 <hr />
