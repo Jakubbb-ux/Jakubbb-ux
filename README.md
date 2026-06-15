@@ -117,7 +117,7 @@
 
 <br />
 
-<h3 align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/3A86FF" width="22" height="22" valign="middle" /> Status na żywo (Visual Studio Code)</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" width="22" height="22" valign="middle" /> Status na żywo (Visual Studio Code)</h3>
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="Status kodu VS" />
 </div>
