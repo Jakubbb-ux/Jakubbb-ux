@@ -173,7 +173,7 @@
 
 <br />
 
-<p align="center"><b><font size="5"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" width="22" height="22" valign="middle" /> Status na żywo (Visual Studio Code)</font></b></p>
+<p align="center"><b><font size="5"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" width="22" height="22" valign="middle" />  Status na żywo (Visual Studio Code)</font></b></p>
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true&animatedDecoration=true&idleMessage=Pisz%C4%99%20nowy%20kod%20%F0%9F%92%BB..." alt="Status kodu VS" />
 </div>
