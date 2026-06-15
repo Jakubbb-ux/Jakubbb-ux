@@ -105,17 +105,17 @@
 ### 👾 Interaktywna oś czasu (Gra Snake)
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" />
+    <img src="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" width="828" />
   </picture>
   <br /><br />
-
   <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
 </div>
 
-<hr />
+<br />
 
 ### 💻 Aktywność na żywo (Visual Studio Code)
 
