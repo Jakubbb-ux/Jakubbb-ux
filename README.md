@@ -16,64 +16,31 @@
 
 ### 🛠️ Moje technologie i poziom znajomości
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse; width: 100%;">
-    <tr>
-      <!-- Lewa kolumna: Backend i Systemy -->
-      <td align="left" style="border: none; padding: 15px; width: 50%;" valign="top">
-        <h4>🧠 Backend i systemy</h4>
-        <table style="border: none;">
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/90/?scale=100&title=&width=120&color=3776AB&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/60/?scale=100&title=&width=120&color=00599C&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/70/?scale=100&title=&width=120&color=239120&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/50/?scale=100&title=&width=120&color=007396&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/80/?scale=100&title=&width=120&color=000080&suffix=%25" /></td>
-          </tr>
-        </table>
-      </td>
-      <!-- Prawa kolumna: Frontend i Bazy Danych -->
-      <td align="left" style="border: none; padding: 15px; width: 50%;" valign="top">
-        <h4>🌐 Frontend, bazy danych i podstawy</h4>
-        <table style="border: none;">
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/85/?scale=100&title=&width=120&color=F7DF1E&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/75/?scale=100&title=&width=120&color=3178C6&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat&logo=html5&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/85/?scale=100&title=&width=120&color=E34F26&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/75/?scale=100&title=&width=120&color=4479A1&suffix=%25" /></td>
-          </tr>
-          <tr>
-            <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></td>
-            <td style="border: none; padding: 4px;"><img src="https://progress-bar.dev/40/?scale=100&title=&width=120&color=777BB4&suffix=%25" /></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+<samp>
+<b>🧠 Backend i systemy</b>
+<br>
+• 🐍 Python (90%) ────── ██████████████████░░
+<br>
+• 💙 C++ (60%) ───────── ████████████░░░░░░░░
+<br>
+• 🟢 C# (70%) ────────── ██████████████░░░░░░
+<br>
+• ☕ Java (50%) ──────── ██████████░░░░░░░░░░
+<br>
+• 🌙 Lua (80%) ───────── ████████████████░░░░
+<br><br>
+<b>🌐 Frontend, bazy danych i podstawy</b>
+<br>
+• 💛 JavaScript (85%) ── █████████████████░░░
+<br>
+• 💙 TypeScript (75%) ── ███████████████░░░░░
+<br>
+• 🧡 HTML/CSS (85%) ──── █████████████████░░░
+<br>
+• 🐬 SQL (75%) ───────── ███████████████░░░░░
+<br>
+• 💜 PHP (40%) ───────── ████████░░░░░░░░░░░░
+</samp>
 
 <hr />
 
