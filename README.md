@@ -84,7 +84,6 @@
 ### 🏆 Moje osiągnięcia (Trofea GitHub)
 
 <div align="center">
-  <!-- Przezroczyste trofea dopasowujące się do ciemnego motywu -->
   <img src="https://github-profile-trophy.vercel.app/?username=TWÓJ_GITHUB_USERNAME&theme=monokai&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
@@ -108,7 +107,7 @@
 </div>
 
 <div align="center">
-  <!-- Tygodniowe podsumowanie czasu kodowania (WakaTime pokaże tu również czas spędzony w VS Code) -->
+  <!-- Tygodniowe podsumowanie czasu kodowania -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWÓJ_NAZWA_UŻYTKOWNIKA_WAKATIME&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&layout=compact" alt="Statystyki WakaTime" />
 </div>
 
@@ -119,31 +118,18 @@
 <div align="center">
   <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
   <br /><br />
+  <!-- Obrazek generowany przez skrypt GitHub Actions -->
   <img src="https://raw.githubusercontent.com/TWÓJ_GITHUB_USERNAME/TWÓJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" width="100%" />
 </div>
 
 <hr />
 
-### 💻 Aktywność na żywo (Visual Studio Code & Muzyka)
+### 💻 Aktywność na żywo (Visual Studio Code)
 
 <div align="center">
-  <table style="border: none; width: 100%;">
-    <tr>
-      <!-- Visual Studio Code / Status Discord -->
-      <td width="50%" align="center" style="border: none; padding: 10px;">
-        <h5>💻 Co robię w Visual Studio Code?</h5>
-        <!-- Widget pokazuje w czasie rzeczywistym Twoją aktywność w edytorze dzięki wtyczce Discord Rich Presence -->
-        <img src="https://lanyard.cnrad.dev/api/TWÓJ_ID_DISCORDA?theme=dark&bg=00000000&animated=true" alt="Status Visual Studio Code" width="340px"/>
-      </td>
-      <!-- Spotify Integration -->
-      <td width="50%" align="center" style="border: none; padding: 10px;">
-        <h5>🎵 Czego teraz słucham?</h5>
-        <a href="https://open.spotify.com/user/TWÓJ_ID_SŁUŻĄCY_DO_SPOTIFY_WIDGET">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=TWÓJ_ID_SŁUŻĄCY_DO_SPOTIFY_WIDGET&cover_image=true&theme=dark" alt="Spotify" width="340px"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h5>💻 Co robię w Visual Studio Code?</h5>
+  <!-- Widget wyśrodkowany, pokazujący Twoją aktywność deweloperską -->
+  <img src="https://lanyard.cnrad.dev/api/TWÓJ_ID_DISCORDA?theme=dark&bg=00000000&animated=true" alt="Status Visual Studio Code" width="400px"/>
 </div>
 
 <hr />
