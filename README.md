@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Minimalistyczny spinner wprowadzający nowoczesny klimat -->
-  <img src="https://raw.githubusercontent.com/andreasgrafen/feature-badge/master/img/octocat-spinner-128.png" width="80" alt="Octocat Spinner" />
+  <!-- Oficjalne animowane emoji dłoni Microsoftu (niezawodny link) -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="90" alt="Waving Hand" />
   
-  <h1><samp>Witaj świecie, jestem <span style="color: #7F5AF0;">[Twój Nick]</span> 🚀</samp></h1>
+  <h1><samp>👋 Cześć! Tu <span style="color: #7F5AF0;">[Twój Nick]</span></samp></h1>
   
   <!-- Dynamiczny nagłówek po polsku -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Programista;Tworz%C4%99+aplikacje+webowe+i+skrypty;Zamieniam+kaw%C4%99+na+czysty+kod" alt="Typing SVG" />
