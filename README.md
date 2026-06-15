@@ -10,7 +10,7 @@
 
 > [!NOTE]
 > ### 🪐 O mnie
-> Programowanie to dla mnie ciągłe poszukiwanie optymalnych rozwiązań. Przekładam skomplikowane wyzwania na prosty, wydajny i łatwy w utrzymaniu kod. Na co dzień skupiam się na automatyzacji procesów, optymalizacji algorytmów i projektowaniu czystej architektury, dbając o to, by oprogramowanie przede wszystkim skutecznie rozwiązywało realne problemy.
+> Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2K23
 
 <!-- Prawa kolumna: Frontend i Bazy Danych -->
   <td style="border: none; padding: 10px; width: 50%;" valign="top">
