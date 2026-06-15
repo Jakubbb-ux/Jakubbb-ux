@@ -1,31 +1,31 @@
 <div align="center">
-  <!-- Minimalistyczny spinner / awatar wprowadzający nowoczesny klimat -->
+  <!-- Minimalistyczny spinner wprowadzający nowoczesny klimat -->
   <img src="https://raw.githubusercontent.com/andreasgrafen/feature-badge/master/img/octocat-spinner-128.png" width="80" alt="Octocat Spinner" />
   
-  <h1><samp>Hello World, I'm <span style="color: #7F5AF0;">[Twój Nick]</span> 🚀</samp></h1>
+  <h1><samp>Witaj świecie, jestem <span style="color: #7F5AF0;">[Twój Nick]</span> 🚀</samp></h1>
   
-  <!-- Ulepszony, ultra-płynny nagłówek dynamiczny -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+digital+experiences;Turning+caffeine+into+functional+code" alt="Typing SVG" />
+  <!-- Dynamiczny nagłówek po polsku -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Programista;Tworz%C4%99+aplikacje+webowe+i+skrypty;Zamieniam+kaw%C4%99+na+czysty+kod" alt="Typing SVG" />
 </div>
 
 <br />
 
 <div align="center">
   <blockquote>
-    <samp>💡 <b>O mnie:</b> Jestem programistą, który wierzy, że najlepszy kod to ten prosty, czytelny i... napisany przed terminem. Moje serce bije w rytmie asynchronicznego kodu, a każdą wolną chwilę spędzam na optymalizacji algorytmów lub tworzeniu przydatnych narzędzi.</samp>
+    <samp>💡 <b>O mnie:</b> Jestem programistą, który wierzy, że najlepszy kod to ten prosty, czytelny i... napisany przed terminem. Moje serce bije w rytmie asynchronicznego kodu, a każdą wolną chwilę spędzam na optymalizacji algorytmów lub pisaniu nowych skryptów.</samp>
   </blockquote>
 </div>
 
 <hr />
 
-### 🛠️ Mój Tech Stack & Poziom Znajomości
+### 🛠️ Moje technologie i poziom znajomości
 
 <div align="center">
   <table style="border: none; border-collapse: collapse; width: 100%;">
     <tr>
       <!-- Lewa kolumna: Backend i Systemy -->
       <td align="left" style="border: none; padding: 15px; width: 50%;" valign="top">
-        <h4>🧠 Backend & Systems</h4>
+        <h4>🧠 Backend i systemy</h4>
         <table style="border: none;">
           <tr>
             <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
@@ -51,7 +51,7 @@
       </td>
       <!-- Prawa kolumna: Frontend i Bazy Danych -->
       <td align="left" style="border: none; padding: 15px; width: 50%;" valign="top">
-        <h4>🌐 Frontend, Databases & Core</h4>
+        <h4>🌐 Frontend, bazy danych i podstawy</h4>
         <table style="border: none;">
           <tr>
             <td style="border: none; padding: 4px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
@@ -81,98 +81,76 @@
 
 <hr />
 
-### 🏆 Moje Osiągnięcia (GitHub Trophies)
+### 🏆 Moje osiągnięcia (Trofea GitHub)
 
 <div align="center">
-  <!-- Przezroczyste, bezramkowe trofea wpasowujące się w tło profilu -->
+  <!-- Przezroczyste trofea dopasowujące się do ciemnego motywu -->
   <img src="https://github-profile-trophy.vercel.app/?username=TWÓJ_GITHUB_USERNAME&theme=monokai&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
 <hr />
 
-### 📊 Statystyki Aktywności
+### 📊 Statystyki aktywności
 
 <div align="center">
   <table style="border: none; width: 100%;">
     <tr>
       <!-- Statystyki ogólne -->
       <td align="center" style="border: none; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="Statystyki GitHub" height="180px" />
       </td>
       <!-- Najczęściej używane języki -->
       <td align="center" style="border: none; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&langs_count=6" alt="Najczęściej używane języki" height="180px" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <!-- Tygodniowe podsumowanie WakaTime (przezroczysty minimalistyczny motyw) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWÓJ_NAZWA_UŻYTKOWNIKA_WAKATIME&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <!-- Tygodniowe podsumowanie czasu kodowania (WakaTime pokaże tu również czas spędzony w VS Code) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWÓJ_NAZWA_UŻYTKOWNIKA_WAKATIME&theme=transparent&title_color=7F5AF0&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&layout=compact" alt="Statystyki WakaTime" />
 </div>
 
 <hr />
 
-### 👾 Interaktywna Oś Czasu (Snake Game)
+### 👾 Interaktywna oś czasu (Gra Snake)
 
 <div align="center">
-  <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych commitów.</samp>
+  <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
   <br /><br />
-  <img src="https://raw.githubusercontent.com/TWÓJ_GITHUB_USERNAME/TWÓJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake game" width="100%" />
+  <img src="https://raw.githubusercontent.com/TWÓJ_GITHUB_USERNAME/TWÓJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" width="100%" />
 </div>
 
 <hr />
 
-### 🟢 Status w czasie rzeczywistym
+### 💻 Aktywność na żywo (Visual Studio Code & Muzyka)
 
 <div align="center">
   <table style="border: none; width: 100%;">
     <tr>
+      <!-- Visual Studio Code / Status Discord -->
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <h5>💻 Co robię w Visual Studio Code?</h5>
+        <!-- Widget pokazuje w czasie rzeczywistym Twoją aktywność w edytorze dzięki wtyczce Discord Rich Presence -->
+        <img src="https://lanyard.cnrad.dev/api/TWÓJ_ID_DISCORDA?theme=dark&bg=00000000&animated=true" alt="Status Visual Studio Code" width="340px"/>
+      </td>
       <!-- Spotify Integration -->
       <td width="50%" align="center" style="border: none; padding: 10px;">
-        <h5>🎵 Aktualnie odtwarzane</h5>
+        <h5>🎵 Czego teraz słucham?</h5>
         <a href="https://open.spotify.com/user/TWÓJ_ID_SŁUŻĄCY_DO_SPOTIFY_WIDGET">
           <img src="https://spotify-github-profile.vercel.app/api/view?uid=TWÓJ_ID_SŁUŻĄCY_DO_SPOTIFY_WIDGET&cover_image=true&theme=dark" alt="Spotify" width="340px"/>
         </a>
       </td>
-      <!-- Discord Integration (Lanyard) -->
-      <td width="50%" align="center" style="border: none; padding: 10px;">
-        <h5>💬 Status Discord</h5>
-        <img src="https://lanyard.cnrad.dev/api/TWÓJ_ID_DISCORDA?theme=dark&bg=00000000&animated=true" alt="Discord" width="340px"/>
-      </td>
     </tr>
   </table>
-</div>
-
-<hr />
-
-### 📬 Kontakt & Wsparcie
-
-<div align="center">
-  <a href="mailto:twój.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/TWÓJ_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/TWÓJ_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://discord.com/users/TWÓJ_ID_DISCORDA">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <br /><br />
-  <a href="https://www.buymeacoffee.com/TWÓJ_BMC_USERNAME">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Kup mi kawę" />
-  </a>
 </div>
 
 <hr />
 
 <div align="center">
   <samp>
-    👁️ Odwiedziny profilu: <img src="https://komarev.com/normal-pencil/github-profile-views-counter/?username=TWÓJ_GITHUB_USERNAME&color=7F5AF0&style=flat-square" alt="Views Counter" /> 
+    👁️ Odwiedziny profilu: <img src="https://komarev.com/normal-pencil/github-profile-views-counter/?username=TWÓJ_GITHUB_USERNAME&color=7F5AF0&style=flat-square" alt="Licznik odwiedzin" /> 
     | 🔄 Ostatnia aktualizacja: czerwiec 2026 r.
   </samp>
 </div>
