@@ -119,5 +119,5 @@
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" width="22" height="22" valign="middle" /> Status na żywo (Visual Studio Code)</h3>
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="Status kodu VS" />
+  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true&animatedDecoration=true&idleMessage=Piszę%20nowy%20kod%20💻..." alt="Status kodu VS" />
 </div>
