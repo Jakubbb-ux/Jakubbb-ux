@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="90" alt="Waving Hand" />
   
   <h1><samp>👋 Cześć! Tu <span style="color: #3A86FF;">Kubuś</span></samp></h1>
@@ -106,15 +105,17 @@
 ### 👾 Interaktywna oś czasu (Gra Snake)
 
 <div align="center">
-  <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
-  <br /><br />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" alt="Gra Snake" />
   </picture>
+  <br /><br />
+
+  <samp>Poniższa animacja automatycznie generuje się na podstawie moich codziennych zatwierdzeń (commitów).</samp>
 </div>
+
+<hr />
 
 ### 💻 Aktywność na żywo (Visual Studio Code)
 
