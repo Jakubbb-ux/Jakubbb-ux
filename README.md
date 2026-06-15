@@ -12,34 +12,30 @@
 > ### 🪐 O mnie
 > Programowanie to dla mnie ciągłe poszukiwanie optymalnych rozwiązań. Przekładam skomplikowane wyzwania na prosty, wydajny i łatwy w utrzymaniu kod. Na co dzień skupiam się na automatyzacji procesów, optymalizacji algorytmów i projektowaniu czystej architektury, dbając o to, by oprogramowanie przede wszystkim skutecznie rozwiązywało realne problemy.
 
-<hr />
-
-### 🛠️ Moje technologie i poziom znajomości
-
 <samp>
 <b>🧠 Backend i systemy</b>
 <br>
-• 🐍 Python (90%) ────── ██████████████████░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" /> Python (90%) ────── ██████████████████░░
 <br>
-• 💙 C++ (60%) ───────── ████████████░░░░░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" /> C++ (60%) ───────── ████████████░░░░░░░░
 <br>
-• 🟢 C# (70%) ────────── ██████████████░░░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16" /> C# (70%) ────────── ██████████████░░░░░░
 <br>
-• ☕ Java (50%) ──────── ██████████░░░░░░░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> Java (50%) ──────── ██████████░░░░░░░░░░
 <br>
-• 🌙 Lua (80%) ───────── ████████████████░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16" height="16" /> Lua (80%) ───────── ████████████████░░░░
 <br><br>
 <b>🌐 Frontend, bazy danych i podstawy</b>
 <br>
-• 💛 JavaScript (85%) ── █████████████████░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> JavaScript (85%) ── █████████████████░░░
 <br>
-• 💙 TypeScript (75%) ── ███████████████░░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" /> TypeScript (75%) ── ███████████████░░░░░
 <br>
-• 🧡 HTML/CSS (85%) ──── █████████████████░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" /> HTML/CSS (85%) ──── █████████████████░░░
 <br>
-• 🐬 SQL (75%) ───────── ███████████████░░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" /> SQL (75%) ───────── ███████████████░░░░░
 <br>
-• 💜 PHP (40%) ───────── ████████░░░░░░░░░░░░
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16" /> PHP (40%) ───────── ████████░░░░░░░░░░░░
 </samp>
 
 <hr />
