@@ -129,7 +129,7 @@
 <div align="center">
   <h5>💻 Co robię w Visual Studio Code?</h5>
   <!-- Widget wyśrodkowany, pokazujący Twoją aktywność deweloperską -->
-  <img src="https://lanyard.cnrad.dev/api/TWÓJ_ID_DISCORDA?theme=dark&bg=00000000&animated=true" alt="Status Visual Studio Code" width="400px"/>
+  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="Status Visual Studio Code" width="400px"/>
 </div>
 
 <hr />
