@@ -1,286 +1,163 @@
-<!-- ==================== HEADER ==================== -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Cześć!+👋+Witaj+na+moim+profilu!;Jestem+Kubuś+–+pasjonat+kodu+💻;Buduję+projekty%2C+które+mają+sens+🚀;Zawsze+uczę+się+czegoś+nowego+🧠" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Jakubbb-ux&color=7C3AED&style=for-the-badge&label=ODWIEDZINY)](https://github.com/Jakubbb-ux)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Jakubbb-ux?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)](https://github.com/Jakubbb-ux)
-
+  <!-- Dynamiczny, animowany nagłówek powitalny -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=550&lines=Cze%C5%9B%C4%87!+%F0%9F%91%8B+Witaj+na+moim+profilu;Zamieniam+kaw%C4%99+w+czysty+kod;Tworz%C4%99+aplikacje+z+pasj%C4%85%21" alt="Typing SVG" />
 </div>
 
----
+<hr />
 
-<!-- ==================== O MNIE ==================== -->
+## 🪐 O mnie
 
-## 🧑‍💻 O mnie
+Jestem pasjonatem programowania, który uważa, że **naprawianie bugów o 2 w nocy ma swój niepowtarzalny urok**. Uwielbiam zgłębiać tajniki inżynierii oprogramowania i eksperymentować z nowymi technologiami. Kiedy nie piszę kodu, najprawdopodobniej debuguję swoje życiowe decyzje lub po prostu słucham muzyki.
 
-```python
-class Kubús:
-    imie      = "Jakub"
-    nick      = "Jakubbb-ux"
-    lokalizacja = "Polska 🇵🇱"
-    pasje     = ["Programowanie", "Gaming", "Nauka nowych technologii"]
-    aktualnie = "Rozwijam się w świecie kodu każdego dnia 🔥"
-    cel       = "Zostać doświadczonym developerem i budować rzeczy, które mają sens"
-    fun_fact  = "Debuguję kod szybciej niż gotuję wodę na herbatę ☕"
-```
+* 🚀 Aktualnie pracuję nad: *Własnymi projektami typu open-source*
+* 🧠 Uczę się: *Architektury chmurowej i zaawansowanych wzorców projektowych*
+* 💬 Zapytaj mnie o: *Wszystko, co związane z Pythonem, bazami danych i mechaniką gier w Lua*
+* ⚡ Ciekawostka: *Mój poziom cierpliwości rośnie proporcjonalnie do liczby wypitych espresso*
 
-> *„Najpierw rozwiąż problem, potem napisz kod."* — John Johnson
+<hr />
 
----
+## 👾 Moje Commity jako Gra Snake
 
-<!-- ==================== SNAKE ==================== -->
-
-## 🐍 Moje Commity — Snake Game
+Poniższa animacja przedstawia moje zaangażowanie na GitHubie w formie legendarnej gry Snake. Wąż zjada moje commity!
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/TWÓJ_GITHUB_USERNAME/TWÓJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Wąż zjadający commity" width="100%" />
 </div>
 
-> ⚙️ **Aby uruchomić węża:** Utwórz plik `.github/workflows/snake.yml` — instrukcja na dole tego README.
+<hr />
 
----
-
-<!-- ==================== JĘZYKI ==================== -->
-
-## 📊 Języki Programowania & Poziom
+## 🛠️ Języki Programowania i Poziom Znajomości
 
 <div align="center">
-
-| Język | Poziom | Pasek |
-|-------|--------|-------|
-| 🐍 Python | 90% | ![90%](https://progress-bar.xyz/90/?scale=100&title=Python&width=400&color=3776AB&suffix=%) |
-| 🌐 JavaScript | 85% | ![85%](https://progress-bar.xyz/85/?scale=100&title=JavaScript&width=400&color=F7DF1E&suffix=%) |
-| 🔷 TypeScript | 75% | ![75%](https://progress-bar.xyz/75/?scale=100&title=TypeScript&width=400&color=3178C6&suffix=%) |
-| ⚙️ C++ | 60% | ![60%](https://progress-bar.xyz/60/?scale=100&title=C%2B%2B&width=400&color=00599C&suffix=%) |
-| 🔵 C# | 70% | ![70%](https://progress-bar.xyz/70/?scale=100&title=C%23&width=400&color=239120&suffix=%) |
-| ☕ Java | 50% | ![50%](https://progress-bar.xyz/50/?scale=100&title=Java&width=400&color=ED8B00&suffix=%) |
-| 🌙 Lua | 80% | ![80%](https://progress-bar.xyz/80/?scale=100&title=Lua&width=400&color=2C2D72&suffix=%) |
-| 🗄️ SQL | 75% | ![75%](https://progress-bar.xyz/75/?scale=100&title=SQL&width=400&color=CC2927&suffix=%) |
-| 🎨 HTML/CSS | 85% | ![85%](https://progress-bar.xyz/85/?scale=100&title=HTML%2FCSS&width=400&color=E34F26&suffix=%) |
-| 🐘 PHP | 40% | ![40%](https://progress-bar.xyz/40/?scale=100&title=PHP&width=400&color=777BB4&suffix=%) |
-
+  <table width="100%">
+    <tr>
+      <!-- Lewa kolumna -->
+      <td width="50%" style="border: none; vertical-align: top;">
+        <table>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" /> <b>Python (90%)</b></td>
+            <td><img src="https://progress-bar.dev/90/?scale=100&title=&width=150&color=3776AB&suffix=%25" alt="Python Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" /> <b>JavaScript (85%)</b></td>
+            <td><img src="https://progress-bar.dev/85/?scale=100&title=&width=150&color=F7DF1E&suffix=%25" alt="JavaScript Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20" /> <b>TypeScript (75%)</b></td>
+            <td><img src="https://progress-bar.dev/75/?scale=100&title=&width=150&color=3178C6&suffix=%25" alt="TypeScript Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /> <b>C++ (60%)</b></td>
+            <td><img src="https://progress-bar.dev/60/?scale=100&title=&width=150&color=00599C&suffix=%25" alt="C++ Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" /> <b>C# (70%)</b></td>
+            <td><img src="https://progress-bar.dev/70/?scale=100&title=&width=150&color=239120&suffix=%25" alt="C# Progress" /></td>
+          </tr>
+        </table>
+      </td>
+      <!-- Prawa kolumna -->
+      <td width="50%" style="border: none; vertical-align: top;">
+        <table>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" /> <b>Java (50%)</b></td>
+            <td><img src="https://progress-bar.dev/50/?scale=100&title=&width=150&color=007396&suffix=%25" alt="Java Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="20" height="20" /> <b>Lua (80%)</b></td>
+            <td><img src="https://progress-bar.dev/80/?scale=100&title=&width=150&color=000080&suffix=%25" alt="Lua Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20" /> <b>SQL (75%)</b></td>
+            <td><img src="https://progress-bar.dev/75/?scale=100&title=&width=150&color=00758F&suffix=%25" alt="SQL Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" /> <b>HTML/CSS (85%)</b></td>
+            <td><img src="https://progress-bar.dev/85/?scale=100&title=&width=150&color=E34F26&suffix=%25" alt="HTML/CSS Progress" /></td>
+          </tr>
+          <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20" /> <b>PHP (40%)</b></td>
+            <td><img src="https://progress-bar.dev/40/?scale=100&title=&width=150&color=777BB4&suffix=%25" alt="PHP Progress" /></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<hr />
 
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Tech Stack & Narzędzia
+## 📈 Moje Statystyki GitHub i Osiągnięcia
 
 <div align="center">
-
-**Języki:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Narzędzia & Środowiska:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <!-- GitHub Readme Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=TWÓJ_GITHUB_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <br /><br />
+  <!-- GitHub Stats oraz Najczęściej Używane Języki obok siebie -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Statystyki GitHub" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Najczęściej używane języki" height="195px" />
 </div>
 
----
+<hr />
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-## 📈 GitHub Stats & Trophies
+## 📊 Statystyki WakaTime
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jakubbb-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubbb-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Jakubbb-ux&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<br/><br/>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jakubbb-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <!-- Wykres kodowania tygodniowego z WakaTime -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWÓJ_NAZWA_UŻYTKOWNIKA_WAKATIME&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
----
+<hr />
 
-<!-- ==================== SPOTIFY ==================== -->
+## 🟢 Aktywność w czasie rzeczywistym
 
-## 🎵 Spotify — Czego teraz słucham?
+Dzięki integracji zewnętrznych API, poniższa sekcja prezentuje aktualnie odtwarzany utwór na Spotify oraz mój bieżący status na komunikatorze Discord wraz z aktualną aktywnością.
 
 <div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=TWOJE_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=7C3AED&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=TWOJE_SPOTIFY_ID&redirect=true)
-
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <h4>🎵 Czego aktualnie słucham na Spotify?</h4>
+        <a href="https://open.spotify.com/user/TWÓJ_ID_SŁUŻĄCY_DO_SPOTIFY_WIDGET">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=TWÓJ_ID_SŁUŻĄCY_DO_SPOTIFY_WIDGET&cover_image=true&theme=dark" alt="Spotify Status" width="350px"/>
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <h4>💬 Mój status na Discordzie</h4>
+        <img src="https://lanyard.cnrad.dev/api/TWÓJ_ID_DISCORDA?theme=dark&bg=0d1117&animated=true" alt="Discord Status" width="350px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-> ⚙️ **Konfiguracja Spotify:** Wejdź na [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → zaloguj się przez Spotify → skopiuj swój `uid` i wklej zamiast `TWOJE_SPOTIFY_ID`
+<hr />
 
----
-
-<!-- ==================== DISCORD ==================== -->
-
-## 💬 Discord Status
+## 🤝 Skontaktuj się ze mną i wesprzyj moją twórczość
 
 <div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/TWOJE_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Offline%20lub%20AFK...&hideDiscrim=true)](https://discord.com/users/TWOJE_DISCORD_ID)
-
+  <!-- Odznaki social media przy użyciu Shields.io -->
+  <a href="mailto:twój.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/TWÓJ_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/TWÓJ_TWITTER_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://discord.com/users/TWÓJ_ID_DISCORDA">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <br /><br />
+  <a href="https://www.buymeacoffee.com/TWÓJ_BMC_USERNAME">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Kup mi kawę" />
+  </a>
 </div>
 
-> ⚙️ **Konfiguracja Discord:** 
-> 1. Dołącz do serwera [Lanyard Discord](https://discord.gg/lanyard) 
-> 2. Wejdź na [discord.id](https://discord.id) → skopiuj swoje **Discord User ID**
-> 3. Wklej je zamiast `TWOJE_DISCORD_ID` w obu miejscach powyżej
+<hr />
 
----
-
-<!-- ==================== WAKATIME ==================== -->
-
-## ⏱️ WakaTime — Czas Kodowania
-
+<!-- Stopka z licznikiem odwiedzin oraz datą ostatniej aktualizacji -->
 <div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TWOJ_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@TWOJ_WAKATIME_USERNAME)
-
-<!--START_SECTION:waka-->
-<!-- Ta sekcja wypełni się automatycznie po skonfigurowaniu GitHub Action -->
-<!--END_SECTION:waka-->
-
+  <p>👁️ Odwiedziny profilu: <img src="https://komarev.com/normal-pencil/github-profile-views-counter/?username=TWÓJ_GITHUB_USERNAME&color=7F5AF0&style=flat-square" alt="Licznik odwiedzin" /></p>
+  <p><i>Zaprojektowano z ❤️ na Twój Profil GitHub. Ostatnia aktualizacja: czerwiec 2026 r.</i></p>
 </div>
-
-> ⚙️ **Konfiguracja WakaTime:**
-> 1. Zarejestruj się na [wakatime.com](https://wakatime.com)
-> 2. Zainstaluj plugin do VS Code: `WakaTime`
-> 3. Wklej swój username zamiast `TWOJ_WAKATIME_USERNAME`
-> 4. Opcjonalnie: skonfiguruj [waka-readme](https://github.com/athul/waka-readme) GitHub Action dla pełnych statystyk
-
----
-
-<!-- ==================== AKTYWNOŚĆ ==================== -->
-
-## 📅 Aktywność na GitHub
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jakubbb-ux&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jakubbb-ux)
-
-</div>
-
----
-
-<!-- ==================== KONTAKT ==================== -->
-
-## 📬 Kontakt & Social Media
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TWOJ@EMAIL.COM) |
-| 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TWOJ-PROFIL) |
-| 🐦 Twitter/X | [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TWOJ_NICK) |
-| 💬 Discord | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TWOJE_DISCORD_ID) |
-| ☕ Buy Me a Coffee | [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/TWOJ_NICK) |
-
-</div>
-
----
-
-<!-- ==================== STOPKA ==================== -->
-
-<div align="center">
-
-### 🖖 Dzięki za odwiedzenie mojego profilu!
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Jakubbb-ux&color=7C3AED&style=flat-square&label=Odwiedziny+profilu)](https://github.com/Jakubbb-ux)
-
-</div>
-
----
-
-<!-- ==================== INSTRUKCJA SNAKE ==================== -->
-<!--
-
-=== INSTRUKCJA: SNAKE GAME ===
-
-Utwórz plik: .github/workflows/snake.yml
-Wklej do niego:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-=== INSTRUKCJA: WAKATIME ACTION ===
-
-Utwórz plik: .github/workflows/waka.yml
-Wklej do niego:
-
-name: Waka Readme
-on:
-  schedule:
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-Następnie w Settings → Secrets → Actions dodaj:
-WAKATIME_API_KEY = (klucz API z wakatime.com/settings/api-key)
-
--->
