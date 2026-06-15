@@ -7,7 +7,7 @@
 <br />
 
 > [!NOTE]
-> ### 🪐 O mnie
+> <b><font size="4">🪐 O mnie</font></b><br />
 > Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2024 roku.
 
 <p align="center">
@@ -23,12 +23,12 @@
 </svg>
 </p>
 
-### 🛠️ Moje technologie i poziom znajomości
+<p><b><font size="5">🛠️ Moje technologie i poziom znajomości</font></b></p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
-<h4>🧠 Backend i systemy</h4>
+<p><b><font size="4">🧠 Backend i systemy</font></b></p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" valign="middle" /> <b>Python</b> (90%)
 <svg width="250" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px; display: block;">
@@ -71,7 +71,7 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<h4>🌐 Frontend, bazy i podstawy</h4>
+<p><b><font size="4">🌐 Frontend, bazy i podstawy</font></b></p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" valign="middle" /> <b>JavaScript</b> (85%)
 <svg width="250" height="8" style="background: #202225; border-radius: 4px; margin-top: 5px; display: block;">
@@ -129,8 +129,7 @@
 </svg>
 </p>
 
-### 👾 Interaktywna oś czasu (Gra Snake)
-
+<p align="center"><b><font size="5">👾 Interaktywna oś czasu (Gra Snake)</font></b></p>
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jakubbb-ux/Jakubbb-ux/output/github-contribution-grid-snake-dark.svg" />
@@ -143,7 +142,7 @@
 
 <br />
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" width="22" height="22" valign="middle" /> Status na żywo (Visual Studio Code)</h3>
+<p align="center"><b><font size="5"><img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" width="22" height="22" valign="middle" /> Status na żywo (Visual Studio Code)</font></b></p>
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true&animatedDecoration=true&idleMessage=Pisz%C4%99%20nowy%20kod%20%F0%9F%92%BB..." alt="Status kodu VS" />
 </div>
