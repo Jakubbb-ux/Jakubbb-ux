@@ -117,7 +117,7 @@
 
 <br />
 
-### 💻 Live Status (Visual Studio Code)
+<h3 align="center">💻 Status na żywo (Visual Studio Code)</h3>
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="VS Code Status" />
+  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="Status kodu VS" />
 </div>
