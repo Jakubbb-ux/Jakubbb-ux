@@ -212,17 +212,11 @@ class Kubús:
 
 ### 🖖 Dzięki za odwiedzenie mojego profilu!
 
-*Jeśli podoba Ci się moja praca — zostaw ⭐ na repo, które Cię zainteresowało!*
-
 <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jakubbb-ux&color=7C3AED&style=flat-square&label=Odwiedziny+profilu)](https://github.com/Jakubbb-ux)
-&nbsp; · &nbsp;
-**Ostatnia aktualizacja:** Czerwiec 2025
-&nbsp; · &nbsp;
-Made with ❤️ by **Kubuś**
 
 </div>
 
