@@ -105,30 +105,6 @@
 
 <hr />
 
-### 📊 Statystyki aktywności
-
-<div align="center">
-  <table style="border: none; width: 100%;">
-    <tr>
-      <!-- Statystyki ogólne (kolor niebieski #3A86FF) -->
-      <td align="center" style="border: none; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=3A86FF&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="Statystyki GitHub" height="180px" />
-      </td>
-      <!-- Najczęściej używane języki (kolor niebieski #3A86FF) -->
-      <td align="center" style="border: none; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=3A86FF&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&langs_count=6" alt="Najczęściej używane języki" height="180px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <!-- Tygodniowe podsumowanie czasu kodowania (kolor niebieski #3A86FF) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TWÓJ_NAZWA_UŻYTKOWNIKA_WAKATIME&theme=transparent&title_color=3A86FF&text_color=A0AEC0&icon_color=2CB67D&bg_color=00000000&hide_border=true&layout=compact" alt="Statystyki WakaTime" />
-</div>
-
-<hr />
-
 ### 👾 Interaktywna oś czasu (Gra Snake)
 
 <div align="center">
