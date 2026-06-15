@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="90" alt="Waving Hand" />
-<h1><samp>👋 Cześć! Tu <span style="color: #3A86FF;">Kubuś</span></samp></h1>
+<br />
+<b><font size="6"><samp>👋 Cześć! Tu <span style="color: #3A86FF;">Kubuś</span></samp></font></b>
+<br /><br />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Programista;Tworz%C4%99+aplikacje+webowe+i+skrypty" alt="Typing SVG" />
 </div>
 
