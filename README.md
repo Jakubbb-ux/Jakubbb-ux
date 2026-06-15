@@ -11,7 +11,7 @@
 
 > [!NOTE]
 > ### 🪐 O mnie
-> Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2K23.
+> Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2K24.
 
 <hr />
 
