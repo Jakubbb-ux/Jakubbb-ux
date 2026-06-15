@@ -10,7 +10,7 @@
 
 <div align="center">
   <blockquote>
-    <samp>💡 <b>O mnie:</b> Jestem programistą, który wierzy, że najlepszy kod to ten prosty, czytelny i... napisany przed terminem. Moje serce bije w rytmie asynchronicznego kodu, a każdą wolną chwilę spędzam na optymalizacji algorytmów lub pisaniu nowych skryptów.</samp>
+    <samp>💡 <b>O mnie:</b> Programowanie to dla mnie ciągłe poszukiwanie optymalnych rozwiązań. Przekładam skomplikowane wyzwania na prosty, wydajny i łatwy w utrzymaniu kod.</samp>
   </blockquote>
 </div>
 
