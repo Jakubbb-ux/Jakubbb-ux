@@ -7,10 +7,18 @@
 </text>
 </svg>
 <br />
-<svg width="100%" height="2">
-<rect width="100%" height="1.5" fill="#3A86FF" opacity="0.4" />
+<p align="center">
+<svg viewBox="0 0 1000 10" width="100%" height="10">
+<defs>
+<linearGradient id="grad_header" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" style="stop-color:#3A86FF;stop-opacity:0" />
+<stop offset="50%" style="stop-color:#3A86FF;stop-opacity:0.5" />
+<stop offset="100%" style="stop-color:#3A86FF;stop-opacity:0" />
+</linearGradient>
+</defs>
+<rect x="0" y="4" width="1000" height="2" fill="url(#grad_header)" rx="1"/>
 </svg>
-<br />
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Programista;Tworz%C4%99+aplikacje+webowe+i+skrypty" alt="Typing SVG" />
 </div>
 
