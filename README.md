@@ -117,9 +117,7 @@
 
 <br />
 
-### 💻 Aktywność na żywo (Visual Studio Code)
-
+### 💻 Live Status (Visual Studio Code)
 <div align="center">
-  <h5>💻 Co robię w Visual Studio Code?</h5>
-  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="Status Visual Studio Code" width="400px"/>
+  <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=00000000&animated=true" alt="VS Code Status" />
 </div>
