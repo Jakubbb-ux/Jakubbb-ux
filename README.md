@@ -8,11 +8,9 @@
 
 <br />
 
-<div align="center">
-  <blockquote>
-    <samp>💡 <b>O mnie:</b> Programowanie to dla mnie ciągłe poszukiwanie optymalnych rozwiązań. Przekładam skomplikowane wyzwania na prosty, wydajny i łatwy w utrzymaniu kod.</samp>
-  </blockquote>
-</div>
+> [!NOTE]
+> ### 🪐 O mnie
+> Programowanie to dla mnie ciągłe poszukiwanie optymalnych rozwiązań. Przekładam skomplikowane wyzwania na prosty, wydajny i łatwy w utrzymaniu kod. Na co dzień skupiam się na automatyzacji procesów, optymalizacji algorytmów i projektowaniu czystej architektury, dbając o to, by oprogramowanie przede wszystkim skutecznie rozwiązywało realne problemy.
 
 <hr />
 
