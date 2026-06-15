@@ -27,9 +27,9 @@
 
 <p><b><font size="5">🛠️ Moje technologie i poziom znajomości</font></b></p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none; padding-right: 20px;">
 <p><b><font size="4">🧠 Backend i systemy</font></b></p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" valign="middle" /> <b>Python</b> (90%)
@@ -72,7 +72,7 @@
 </svg>
 </p>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 <p><b><font size="4">🌐 Frontend, bazy i podstawy</font></b></p>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" valign="middle" /> <b>JavaScript</b> (85%)
