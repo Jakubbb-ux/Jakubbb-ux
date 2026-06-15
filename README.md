@@ -26,7 +26,7 @@
 
 > [!NOTE]
 > <b><font size="4">🪐 O mnie</font></b><br />
-> Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2024 roku.
+> Jestem 17-letnim programistą backendu i frontendu z 🇵🇱. Interesuję się programowaniem od 2k24 roku.
 
 <p align="center">
 <svg viewBox="0 0 1000 10" width="100%" height="10">
