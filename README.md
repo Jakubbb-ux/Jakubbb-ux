@@ -1,17 +1,14 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="90" alt="Waving Hand" />
 <br />
-<b><font size="7"><samp>👋 Cześć! Tu <span style="color: #3A86FF;">Kubuś</span></samp></font></b>
-<br /><br />
-<svg viewBox="0 0 1000 10" width="100%" height="10">
-<defs>
-<linearGradient id="grad_header" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" style="stop-color:#3A86FF;stop-opacity:0" />
-<stop offset="50%" style="stop-color:#3A86FF;stop-opacity:0.6" />
-<stop offset="100%" style="stop-color:#3A86FF;stop-opacity:0" />
-</linearGradient>
-</defs>
-<rect x="0" y="4" width="1000" height="2" fill="url(#grad_header)" rx="1"/>
+<svg width="100%" height="55" viewBox="0 0 500 55">
+<text x="50%" y="30" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="currentColor">
+👋 Cześć! Tu <tspan fill="#3A86FF">Kubuś</tspan>
+</text>
+</svg>
+<br />
+<svg width="100%" height="2">
+<rect width="100%" height="1.5" fill="#3A86FF" opacity="0.4" />
 </svg>
 <br />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Programista;Tworz%C4%99+aplikacje+webowe+i+skrypty" alt="Typing SVG" />
@@ -172,4 +169,3 @@
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/633190742550118410?theme=dark&bg=0d1117&borderRadius=12px&showDisplayName=true&animatedDecoration=true&idleMessage=Pisz%C4%99%20nowy%20kod%20%F0%9F%92%BB..." alt="Status kodu VS" />
 </div>
-
