@@ -2,19 +2,19 @@
 on:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch:  
   push:
     branches:
-      - main
+      - main 
 
 permissions:
-  contents: write
+  contents: write  
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  SNAKE_COLOR: "#3A86FF"
-  OUTPUT_BRANCH: "output"
-  OUTPUT_DIR: "dist"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  
+  SNAKE_COLOR: "#3A86FF"                   
+  OUTPUT_BRANCH: "output"                 
+  OUTPUT_DIR: "dist"                        
 
 jobs:
   generate-and-publish-snake:
@@ -38,12 +38,15 @@ jobs:
 
       - name: Verify generated SVG files exist
         run: |
-          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
-            exit 1
-          fi
-          if [ ! -f dist/github-contribution-grid-snake-dark.svg ]; then
-            exit 1
-          fi
+          assert_file_exists() {
+            local file_path="$1"
+            if [ ! -f "$file_path" ]; then
+              exit 1
+            fi
+          }
+
+          assert_file_exists "dist/github-contribution-grid-snake.svg"
+          assert_file_exists "dist/github-contribution-grid-snake-dark.svg"
 
       - name: Publish snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5
