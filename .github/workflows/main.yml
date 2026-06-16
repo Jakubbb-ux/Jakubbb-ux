@@ -38,14 +38,12 @@ jobs:
 
       - name: Verify generated SVG files exist
         run: |
-          echo "Zawartość katalogu workspace:"
-          ls -la
-          echo "---"
-          echo "Zawartość katalogu dist (jeśli istnieje):"
-          ls -la dist/ 2>&1 || echo "Katalog dist nie istnieje"
-          echo "---"
-          [ ! -f dist/github-contribution-grid-snake.svg ] && exit 1
-          [ ! -f dist/github-contribution-grid-snake-dark.svg ] && exit 1
+          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
+            exit 1
+          fi
+          if [ ! -f dist/github-contribution-grid-snake-dark.svg ]; then
+            exit 1
+          fi
 
       - name: Publish snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5
